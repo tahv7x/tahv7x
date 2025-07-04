@@ -1,9 +1,8 @@
-<h1 align="center">👋 Salut, moi c'est tahv7x</h1>
+<h1 align="center">👋 Salut, moi c'est taha hassbi</h1>
 
 <p align="center">
   🎓 Étudiant en 1ère année BTS - Développement des Applications Informatiques<br>
   💻 Passionné par la programmation et le développement logiciel<br>
-  📚 J’apprends chaque jour de nouvelles technologies
 </p>
 
 ---
@@ -11,19 +10,19 @@
 ## 🚀 Projets récents
 
 - 🎯 [Simple Calculator](https://github.com/tahv7x/Simple-Calculator) — Calculatrice graphique en C# (Windows Forms)
-
+  
 ---
 
 ## 🛠️ Compétences
 
 ### 💻 Langages & Outils
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
