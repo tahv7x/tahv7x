@@ -43,5 +43,5 @@
 
 ## 📫 Me contacter
 
-- ✉️ Email : you@example.com
-- 💼 LinkedIn : [linkedin.com/in/tahv7x](https://linkedin.com/in/tahv7x)
+- ✉️ Email : thassbii@gmail.com
+- 💼 LinkedIn : [linkedin.com/in/tahv7x]([https://linkedin.com/in/tahv7x](https://www.linkedin.com/in/hassbi-taha-874367346/))
